@@ -9,5 +9,5 @@ const app = express();
 // Listen for requests
 app.listen(5000, function() {
   // Kind of like our onReady function
-  console.log('App is running');
-})
+  console.log('App is runnin on localhost:5000');
+});
